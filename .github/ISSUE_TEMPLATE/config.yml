@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Get help on Discord
+  - name: Get Help / Ask a Question
+    url: https://github.com/yt-dlp/yt-dlp/discussions
+    about: For questions and general help, please use GitHub Discussions
+  - name: Documentation / Wiki
+    url: https://github.com/yt-dlp/yt-dlp/wiki
+    about: Check the wiki for guides and documentation
+  - name: Discord Server
     url: https://discord.gg/H5MNcFW63r
-    about: Join the yt-dlp Discord server for support and discussion
+    about: Join our Discord for real-time support and discussion
